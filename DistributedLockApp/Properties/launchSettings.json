@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "DistributedLockApp": {
+      "commandName": "Project"
+    }
+  }
+}
